@@ -1,7 +1,7 @@
 /* Getting the new tags to behave */
 article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {display:block}
 mark, rp, rt, ruby, summary, time {display:inline}
-body {background:url(../images/tail-top.jpg) repeat-x center top #000;font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1em;color:#a6a6a6}
+body {background:url(images/1page-img.jpg) repeat-x center top #000;font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1em;color:#a6a6a6}
 html {min-width:1000px}
 html, body {height:100%}
 .container {margin:0 auto;overflow:hidden;width:1000px;font-size:.875em;padding:60px 0 140px 0}
